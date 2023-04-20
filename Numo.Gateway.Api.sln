@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numo.Gateway", "src\Numo.Gateway\Numo.Gateway.csproj", "{AE4A7B98-B82F-4FF8-9B24-04FBE4642468}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numo.Gateway.Api", "src\Numo.Gateway.Api\Numo.Gateway.Api.csproj", "{AE4A7B98-B82F-4FF8-9B24-04FBE4642468}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

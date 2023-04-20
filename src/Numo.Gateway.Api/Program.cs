@@ -1,5 +1,5 @@
 
-namespace Numo.Gateway;
+namespace Numo.Gateway.Api;
 
 public static class Program
 {

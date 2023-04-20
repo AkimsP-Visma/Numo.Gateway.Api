@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Numo.Gateway.Controllers;
+namespace Numo.Gateway.Api.Controllers;
 
 [ApiController]
 [Route("[controller]")]

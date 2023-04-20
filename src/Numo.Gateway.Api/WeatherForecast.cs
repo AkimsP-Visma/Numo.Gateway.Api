@@ -1,4 +1,4 @@
-namespace Numo.Gateway;
+namespace Numo.Gateway.Api;
 
 public class WeatherForecast
 {
